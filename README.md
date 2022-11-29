@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joaquin
+Hi 👋 My name is Joaquin
 ========================
 
 Beginner Developer and Student
@@ -13,8 +13,7 @@ I'm Joaquin, a beginner developer 👨‍💻 studying Computer Engineering at U
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Fun Fact, I decided to study programming thanks to a piece of ad paper that I was going to throw in the trash.
 
-<a href="https://www.github.com/TheAmazingLife" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/TheAmazingLife?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/TheAmazingLife" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TheAmazingLife?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills 
 
