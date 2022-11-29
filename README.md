@@ -6,16 +6,18 @@ Beginner Developer and Student
 
 I'm Joaquin, a beginner developer 👨‍💻 studying Computer Engineering at University of Concepción since 2021 🚀
 
-*   🌍  I'm based in Concepcion, Chile
-*   ✉️  You can contact me at [joaquin.san.vargas19@gmail.com](mailto:joaquin.san.vargas19@gmail.com)
-*   🚀  I'm currently working on [my Repos](http://github.com/TheAmazingLife?tab=repositories&type=source)
-*   🧠  I'm learning C++, Java & Python
-*   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Fun Fact, I decided to study programming thanks to a piece of ad paper that I was going to throw in the trash.
+* 🌍  I'm based in Concepcion, Chile
+* ✉️  You can contact me at [joaquin.san.vargas19@gmail.com](mailto:joaquin.san.vargas19@gmail.com)
+* 🚀  I'm currently working on [my Repos](http://github.com/TheAmazingLife?tab=repositories&type=source)
+* 🧠  I'm learning C++, Java & Python
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  Fun Fact, I decided to study programming thanks to a piece of ad paper that I was going to throw in the trash.
 
-<a href="https://www.github.com/TheAmazingLife" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TheAmazingLife?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
-### Skills 
+<a href="https://www.github.com/TheAmazingLife" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/TheAmazingLife?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -30,7 +32,7 @@ I'm Joaquin, a beginner developer 👨‍💻 studying Computer Engineering at U
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/TheAmazingLife#6825" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>                          
+<a href="https://discord.com/users/TheAmazingLife#6825" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/TheAmazingLife" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/theamazinglife" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/19875928/theamazinglife" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
