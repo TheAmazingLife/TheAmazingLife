@@ -1,10 +1,10 @@
 Hi 👋 My name is Joaquin
 ========================
 
-Beginner Developer and Student
+Beginner Developer and CS Student
 ------------------------------
 
-I'm Joaquin, a beginner developer 👨‍💻 studying Computer Science Engineering at University of Concepción since 2021 🚀
+I'm Joaquin, a beginner developer 👨‍💻 studying Computer Science Engineering at [University of Concepción](www.udec.cl) since 2021 🚀
 
 * 🌍  I'm based in Concepcion, Chile
 * ✉️  You can contact me at [joaquin.san.vargas19@gmail.com](mailto:joaquin.san.vargas19@gmail.com)
